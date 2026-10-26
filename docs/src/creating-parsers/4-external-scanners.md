@@ -37,7 +37,7 @@ enum TokenType {
   INDENT,
   DEDENT,
   NEWLINE
-}
+};
 ```
 
 Finally, you must define five functions with specific names, based on your language's name and five actions:
